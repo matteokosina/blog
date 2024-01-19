@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World"
 date:   2024-01-18 16:55:29 +0100
 author: by Matteo Kosina
-categories: hello world
+tags: helloWorld
 ---
 🚀 Welcome to TechTide
 

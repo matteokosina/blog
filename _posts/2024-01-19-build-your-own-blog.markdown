@@ -3,7 +3,8 @@ layout: post
 title:  "Build your own blog (for free)"
 date:   2024-01-19 07:47:29 +0100
 author: by Matteo Kosina
-categories: blog
+description: Build your own blog with jekyll and Github-Pages
+tags: Jekyll Github-Pages Blog
 ---
 Have you ever wanted to start your very own blog for travel, tech or other topics? Now you can and the best part is that it is completely free.
 
