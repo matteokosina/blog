@@ -74,7 +74,7 @@ if not os.path.exists(tag_dir):
     os.makedirs(tag_dir)
 
 for tag in total_tags:
-    tag_filename = tag_dir + tag.replace(' ', '_') + '.md'
+    tag_filename = tag_dir + tag.replace(' ', '_') + '.markdown'
     f = open(tag_filename, 'a')
     write_str = '---\nlayout: tagpage\ntag: ' + tag + '\nrobots: noindex\n---\n'
     f.write(write_str)
