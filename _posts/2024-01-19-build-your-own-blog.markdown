@@ -6,6 +6,11 @@ author: by Matteo Kosina
 description: Build your own blog with jekyll and Github-Pages
 tags: Jekyll Github-Pages Blog
 ---
+ ![testimage.png](https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png)
+ 
+*source: [wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png)*
+
+
 Have you ever wanted to start your very own blog for travel, tech or other topics? Now you can and the best part is that it is completely free.
 
 We are going to use Github Pages as our Hosting Service and Jekyll to easily generate static websites based of markdown files.
